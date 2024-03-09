@@ -1,6 +1,6 @@
 
 const btn=document.getElementById('btn');
-const apiKey="6f533cdba10e64d9836782b2d22dda51"
+const apiKey=//YOUR API KEY FROM OPENWEATHER
 const temperature=document.querySelector('.tempt')
 const descrip=document.querySelector('.first')
 const name=document.querySelector('.last')
